@@ -53,4 +53,5 @@ public class MainActivity extends AppCompatActivity {
         radarFragment = new RadarFragment();
         lineFragment = new LineFragment();
     }
+    // for test
 }
