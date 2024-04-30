@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bar_chart"
+        android:title="BAR"
+        android:icon="@drawable/bar_chart_icon"/>
+    <item
+        android:id="@+id/pie_chart"
+        android:title="PIE"
+        android:icon="@drawable/pie_chart_icon"/>
+    <item
+        android:id="@+id/radar_chart"
+        android:title="RADAR"
+        android:icon="@drawable/radar_chart_icon"/>
+    <item
+        android:id="@+id/line_chart"
+        android:title="LINE"
+        android:icon="@drawable/line_chart_icon"/>
+
+
+</menu>
